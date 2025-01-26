@@ -133,3 +133,36 @@ main{
     text-shadow: 3px 2px 0px rgba(51, 168, 219, 1);
     text-transform: lowercase;
 }
+#professional-challenges{
+    height: 1400px;
+    width: 100%;
+    border-top: 1px  solid rgba(51, 168, 219, 1);
+}
+#professional-challenges h2{
+    color: rgba(51, 168, 219, 1);
+    width: 746px;
+    margin: auto;
+    text-align: center;
+    margin-top: 200px;
+    font-size: 32px;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 37.56px;
+    text-shadow: 1px 1px 4px rgba(51, 168, 219, 0.431);
+}
+#professional-challenges img{
+    height: 429px;
+    width: 659px;
+    margin: 30px auto;
+    display: block;
+}
+#professional-challenges p{
+    color: rgba(255, 255, 255, 1);
+    font-weight: 500;
+    text-align: center;
+    font-size: 16px;
+    line-height: 18.78px;
+    width: 792px;
+    margin: 40px auto;
+
+}
